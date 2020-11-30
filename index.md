@@ -10,10 +10,23 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
+### 个人信息
+#### 姓名：王元熙
+#### 学历：本科
+#### 学校：浙江万里学院
+#### 邮箱：2334265682@qq.com
 
-# Header 1
-## Header 2
-### Header 3
+### 最新消息
+1.消息1 2020年11月30日成功建立GitHub
+
+### 研究方向
+-文本挖掘
+-知识图谱
+
+### 荣誉奖励
+-奖学金
+-荣誉称号
+-比赛获奖
 
 - Bulleted
 - List
